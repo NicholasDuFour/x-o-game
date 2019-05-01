@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/x-o-game/static/css/main.15873ec3.chunk.css",
+    "main.js": "/x-o-game/static/js/main.b25c658e.chunk.js",
+    "main.js.map": "/x-o-game/static/js/main.b25c658e.chunk.js.map",
+    "runtime~main.js": "/x-o-game/static/js/runtime~main.4d4a41cc.js",
+    "runtime~main.js.map": "/x-o-game/static/js/runtime~main.4d4a41cc.js.map",
+    "static/js/2.58e84392.chunk.js": "/x-o-game/static/js/2.58e84392.chunk.js",
+    "static/js/2.58e84392.chunk.js.map": "/x-o-game/static/js/2.58e84392.chunk.js.map",
+    "index.html": "/x-o-game/index.html",
+    "precache-manifest.cc9fe71e86ac3c4213f55c2ea11c5597.js": "/x-o-game/precache-manifest.cc9fe71e86ac3c4213f55c2ea11c5597.js",
+    "service-worker.js": "/x-o-game/service-worker.js",
+    "static/css/main.15873ec3.chunk.css.map": "/x-o-game/static/css/main.15873ec3.chunk.css.map"
+  }
+}
