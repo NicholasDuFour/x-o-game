@@ -3,6 +3,10 @@ body {
     margin: 20px;
   }
 
+  /* div {
+    border: 1px solid black;
+  } */
+
   .heading {
     display: flex;
     flex-direction: column;
@@ -27,7 +31,7 @@ body {
     background: #fff;
     border: 1px solid #999;
     float: left;
-    font-size: 54px;
+    font-size: 40px;
     font-weight: bold;
     line-height: 68px;
     height: 68px;
@@ -54,12 +58,15 @@ body {
   
   .game-info {
     margin-left: 30px;
-    font-size: 30px;
+    font-size: 23px;
+    height: 500px;
+    margin: 10px auto;
   }
 
   .go-to-btn {
     padding: 5px;
     font-size: 15px;
+    margin: 4px;
   }
 
 /* Tablet/Desktop Styles */
@@ -68,5 +75,15 @@ body {
       display: flex;
       flex-direction: row;
       justify-content: center;
+      height: 500px;
+    }
+
+    .game-board {
+      position: relative;
+      bottom: 115px;
+    }
+
+    .game-info {
+      margin: 10px 30px;
     }
   }

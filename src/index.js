@@ -108,8 +108,8 @@ import Header from './Header.js';
 
 
       return (
-      <div className="wrapper">
-          <Header/>
+       <div className="wrapper">
+           <Header/>
         <div className="game" role="main">
           <div className="game-board">
             <Board 
@@ -122,7 +122,7 @@ import Header from './Header.js';
             <ol>{moves}</ol>
           </div>
         </div>
-      </div>
+       </div>
       );
     }
   }
