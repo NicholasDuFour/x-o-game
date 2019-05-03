@@ -65,7 +65,7 @@ import Header from './Header.js';
       if (calculateWinner(squares) || squares[i]){
         return;
       }
-
+    
       squares[i] = this.state.xIsNext ? 'X' : 'O';
       this.setState({ 
         history: history.concat([{
@@ -100,7 +100,9 @@ import Header from './Header.js';
       });
 
       let status;
-      if (winner){
+      if (!winner && this.state.stepNumber === 9 ){
+        status = 'Draw! Play again?';
+      } else if (winner) {
         status = 'Winner: ' + winner;
       } else {
         status = 'Next player: ' + (this.state.xIsNext ? 'X' : 'O');
