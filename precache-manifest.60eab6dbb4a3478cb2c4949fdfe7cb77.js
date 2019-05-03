@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60f493659956cc133b0f9843656f293d",
+    "revision": "e218bc68a20623aecd5f8edcd19600c3",
     "url": "/x-o-game/index.html"
   },
   {
-    "revision": "ba1508a5dd2c03b30242",
+    "revision": "b4dd201f800445b80cad",
     "url": "/x-o-game/static/css/main.00716f49.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/x-o-game/static/js/2.58e84392.chunk.js"
   },
   {
-    "revision": "ba1508a5dd2c03b30242",
-    "url": "/x-o-game/static/js/main.b25c658e.chunk.js"
+    "revision": "b4dd201f800445b80cad",
+    "url": "/x-o-game/static/js/main.cc4f386a.chunk.js"
   },
   {
     "revision": "e5ab63f4a0e4808914dd",
