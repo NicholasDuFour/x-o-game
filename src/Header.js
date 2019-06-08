@@ -7,7 +7,7 @@ class Header extends React.Component {
         return (
             <header role="banner" className="heading">
                 <h1>X-O</h1>
-                <p>A tic-tac-toe game</p>
+                <p>a tic-tac-toe game</p>
             </header>
         );
     }
