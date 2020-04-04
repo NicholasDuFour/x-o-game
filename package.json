@@ -5,6 +5,7 @@
   "dependencies": {
     "acorn": "^7.1.1",
     "eslint-utils": "^1.4.3",
+    "kind-of": "^6.0.3",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
     "querystringify": "^2.1.1",
